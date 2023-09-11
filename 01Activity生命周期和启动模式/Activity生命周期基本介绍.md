@@ -34,4 +34,7 @@
 
  > 问题2 当 Activity ，在打开一个新的 Activity 时，这两个Activity 回调的方法，先后会执行那些方法？
 
+ > 问题3 当Activity 有fragment 他们的生命周期是怎么样的？
+
+ > 问题4 假设当前Activity为A，如果这时用户打开一个新Activity B ， 那么B的 onResume 和 A 的onPause 哪个先执行，为什么？ 
 
